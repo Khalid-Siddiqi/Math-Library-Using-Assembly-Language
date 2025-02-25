@@ -11,8 +11,8 @@ While programming in assembly language, we felt that there are no such external 
 Project Specification:
 The project consists of several mathematical functions that can be called directly through the driver function (main) while passing some values to it. The project is generic.
 ## Timeline/Breakup:
-First Meeting (17 Nov,2022): In this meeting we made this road map.
-Second Meeting (1 Dec,2022): The project was Finalized, and pieces of code were combined.
+* First Meeting (17 Nov,2022): In this meeting we made this road map.
+* Second Meeting (1 Dec,2022): The project was Finalized, and pieces of code were combined.
 ## Solution Design: 
 ### 1. Project Detail: 
 We would be constructing specific procedures/functions for specific mathematical needs and would try to build it with a generic approach so there are no discrepancies. 
