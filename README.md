@@ -14,9 +14,12 @@ The project consists of several mathematical functions that can be called direct
 First Meeting (17 Nov,2022): In this meeting we made this road map.
 Second Meeting (1 Dec,2022): The project was Finalized, and pieces of code were combined.
 ## Solution Design: 
-### 1. Project Detail: We would be constructing specific procedures/functions for specific mathematical needs and would try to build it with a generic approach so there are no discrepancies. 
-### 2. Functionality: The project is offering functionality or usability in a wide range such that it is using basic arithmetic, array related and other basic or mostly used functions.
-### 3. Features: Following is the list of functions that are available in this library:
+### 1. Project Detail: 
+We would be constructing specific procedures/functions for specific mathematical needs and would try to build it with a generic approach so there are no discrepancies. 
+### 2. Functionality: 
+The project is offering functionality or usability in a wide range such that it is using basic arithmetic, array related and other basic or mostly used functions.
+### 3. Features: 
+Following is the list of functions that are available in this library:
 Array Methods:
 Maximum of Array
 Minimum of Array
